@@ -1,0 +1,9 @@
+polars==0.20.5
+python-decouple
+adbc_driver_postgresql==0.9.0
+adbc_driver_manager
+pyarrow
+sqlalchemy==2.0.25
+pandas==2.2.0
+jupyter
+psycopg-binary
